@@ -20,5 +20,5 @@ Réalisé avec le site [Oh My CV!](https://ohmycv.app/) en utilisant du markdown
 
 ## A voir
 
-- Ansible
-- WebTransport
+- [ ] Ansible
+- [ ] WebTransport
