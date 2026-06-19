@@ -10,9 +10,9 @@
 
 ### ⚙️ Partie Système, Réseau & Architecture
 
-| Outils & IDE | OS | Hyperviseurs | Réseaux & Comm. | Architecture & Patterns | Sécurité Web |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| • Git<br>• Linux commands<br>• Helix<br>• Docker<br>• Android Studio | • Windows<br>• Mac<br>• Linux (Ubuntu, Arch) | • VMware<br>• Proxmox | • HTTP<br>• TCP <br>• UDP <br>• WebSockets<br>• WebRTC | • MVC<br>• SPA<br>• Monolith<br>• SOLID<br>• Injection de dép.<br>• Strategy Pattern | • XSS<br>• SQLi<br>• CORS<br>• CSRF<br>• Token bearer<br>• Token JWT |
+| Outils & IDE | OS | Virtualisation | Réseaux & Comm. | Architecture | Patterns | Sécurité Web |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| • Git<br>• Linux commands<br>• Helix<br>• Android Studio | • Windows<br>• Mac<br>• Linux (Ubuntu, Arch) | • Docker<br>• VMware<br>• Proxmox | • HTTP<br>• TCP <br>• UDP <br>• WebSockets<br>• WebRTC | • MVC<br>• SPA<br>• Monolith | • SOLID<br>• Injection de dépendence<br>• Strategy Pattern | • XSS<br>• SQLi<br>• CORS<br>• CSRF<br>• Token bearer<br>• Token JWT |
 
 ## CV
 
