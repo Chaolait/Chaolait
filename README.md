@@ -1,29 +1,101 @@
 ## Spécialités Techniques
 
-* **Langages :** JavaScript, Java, Go, C, PHP, Python, Rust
-* **Frameworks & Runtimes :** Vue.js, Symfony 7, Node.js, Express.js
+### Langages 
 
-* **Bases de données :** MySQL, PostgreSQL, SQLite
-* **ORM** : Sequelize, Doctrine
+* **JavaScript**
+* **Java**
+* **Go**
+* **C**
+* **PHP**
+* **Python**
+* **Rust**
 
-* **Moteurs de template :** Handlebars, Twig, Pug
+### Frameworks & Runtimes
 
-* **Outils & IDE :** Git, Linux commands, Helix, Docker, Android Studio
+* **Node.js**
+* **Express.js**
+* **Vue.js**
+* **Symfony 7**
 
-* **OS :** Windows, Mac, Linux(Ubuntu, Arch)
-* **Hyperviseurs :** VMware, Proxmox
+### Bases de données
 
-* **Interfaces :** HTML, CSS, JavaFX, Bootstrap, SCSS
-* **Réseaux & Communication :** HTTP, WebSockets, WebRTC
+* **MySQL**
+* **PostgreSQL**
+* **SQLite**
 
-* **Architecture :** MVC, SPA, Monolith
-* **Patterns :** SOLID, Injection de dépendances, Strategy Pattern
+### ORM
 
-* **Sécurité Web :** XSS, SQLi, CORS, CSRF, Token bearer, Token JWT
+* **Sequelize**
+* **Doctrine**
+
+### Moteurs de template
+
+* **Handlebars**
+* **Twig**
+* **Pug**
+
+### Outils & IDE
+
+* **Git**
+* **Linux commands**
+* **Helix**
+* **Docker**
+* **Android Studio**
+
+### OS 
+
+* **Windows**
+* **Mac**
+* **Linux** (Ubuntu, Arch)
+
+
+### Hyperviseurs
+
+* **VMware**
+* **Proxmox**
+
+
+### Interfaces
+
+* **HTML**
+* **CSS**
+* **JavaFX**
+* **Bootstrap**
+* **SCSS**
+
+
+### Réseaux & Communication
+
+* **HTTP**
+* **WebSockets**
+* **WebRTC**
+
+### Architecture
+
+* **MVC**
+* **SPA**
+* **Monolith**
+
+### Patterns 
+
+* **SOLID**
+* **Injection de dépendances**
+* **Strategy Pattern**
+
+### Sécurité Web
+
+* **XSS**
+* **SQLi**
+* **CORS**
+* **CSRF**
+* **Token bearer**
+* **Token JWT**
+
+
 
 ## CV
 
-Réalisé avec le site [Oh My CV!](https://ohmycv.app/) ohmycv.app en utilisant du markdown + html + css.
+Réalisé avec le site [Oh My CV!](https://ohmycv.app/) en utilisant du markdown + html + css.
 
 ## A voir
 
