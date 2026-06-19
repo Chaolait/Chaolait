@@ -1,97 +1,18 @@
 ## Spécialités Techniques
 
-### Langages 
+### 💻 Partie Développement & Données
 
-* **JavaScript**
-* **Java**
-* **Go**
-* **C**
-* **PHP**
-* **Python**
-* **Rust**
+| Langages | Frameworks & Runtimes | Bases de données | ORM | Moteurs de template | Interfaces |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| • JavaScript<br>• Java<br>• Go<br>• C<br>• PHP<br>• Python<br>• Rust | • Node.js<br>• Express.js<br>• Vue.js<br>• Symfony 7 | • MySQL<br>• PostgreSQL<br>• SQLite | • Sequelize<br>• Doctrine | • Handlebars<br>• Twig<br>• Pug | • HTML<br>• CSS<br>• JavaFX<br>• Bootstrap<br>• SCSS |
 
-### Frameworks & Runtimes
+<br>
 
-* **Node.js**
-* **Express.js**
-* **Vue.js**
-* **Symfony 7**
+### ⚙️ Partie Système, Réseau & Architecture
 
-### Bases de données
-
-* **MySQL**
-* **PostgreSQL**
-* **SQLite**
-
-### ORM
-
-* **Sequelize**
-* **Doctrine**
-
-### Moteurs de template
-
-* **Handlebars**
-* **Twig**
-* **Pug**
-
-### Outils & IDE
-
-* **Git**
-* **Linux commands**
-* **Helix**
-* **Docker**
-* **Android Studio**
-
-### OS 
-
-* **Windows**
-* **Mac**
-* **Linux** (Ubuntu, Arch)
-
-
-### Hyperviseurs
-
-* **VMware**
-* **Proxmox**
-
-
-### Interfaces
-
-* **HTML**
-* **CSS**
-* **JavaFX**
-* **Bootstrap**
-* **SCSS**
-
-
-### Réseaux & Communication
-
-* **HTTP**
-* **WebSockets**
-* **WebRTC**
-
-### Architecture
-
-* **MVC**
-* **SPA**
-* **Monolith**
-
-### Patterns 
-
-* **SOLID**
-* **Injection de dépendances**
-* **Strategy Pattern**
-
-### Sécurité Web
-
-* **XSS**
-* **SQLi**
-* **CORS**
-* **CSRF**
-* **Token bearer**
-* **Token JWT**
-
-
+| Outils & IDE | OS | Hyperviseurs | Réseaux & Comm. | Architecture & Patterns | Sécurité Web |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| • Git<br>• Linux commands<br>• Helix<br>• Docker<br>• Android Studio | • Windows<br>• Mac<br>• Linux (Ubuntu, Arch) | • VMware<br>• Proxmox | • HTTP<br>• TCP <br>• UDP <br>• WebSockets<br>• WebRTC | • MVC<br>• SPA<br>• Monolith<br>• SOLID<br>• Injection de dép.<br>• Strategy Pattern | • XSS<br>• SQLi<br>• CORS<br>• CSRF<br>• Token bearer<br>• Token JWT |
 
 ## CV
 
