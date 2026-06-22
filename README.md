@@ -18,6 +18,10 @@
 
 Réalisé avec le site [Oh My CV!](https://ohmycv.app/) en utilisant du markdown + html + css.
 
+# TODO
+
+- [ ] Afficher la liste de tout mes projets ici avec les stacks utilises.
+
 ## A voir
 
 - [ ] Ansible
