@@ -1,3 +1,5 @@
+[Mon cv](./cv-arthur-bailleul.pdf)
+
 ## Spécialités Techniques
 
 ### 💻 Partie Développement & Données
