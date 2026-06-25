@@ -6,7 +6,7 @@
 
 | Langages | Frameworks & Runtimes | Bases de données | ORM | Moteurs de template | Interfaces |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| • JavaScript<br>• Java<br>• Go<br>• C<br>• PHP<br>• Python<br>• Rust | • Node.js<br>• Express.js<br>• Vue.js<br>• Symfony 7 | • MySQL<br>• PostgreSQL<br>• SQLite | • Sequelize<br>• Doctrine | • Handlebars<br>• Twig<br>• Pug | • HTML<br>• CSS<br>• JavaFX<br>• Bootstrap<br>• SCSS |
+| • JavaScript<br>• Java<br>• Go<br>• C<br>• PHP<br>• Python<br>• Rust | • Node.js<br>• Express.js<br>• Vue.js<br>• Symfony 7 | • MySQL<br>• PostgreSQL<br>• SQLite | • Sequelize<br>• Doctrine | • Handlebars<br>• Twig<br>• Pug | • HTML<br>• CSS<br>• JavaFX<br>• Bootstrap<br>• Flutter• SCSS |
 
 <br>
 
